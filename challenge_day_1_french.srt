@@ -344,4 +344,5 @@ aux autres et ce qui s'est passé lors de ces interactions.
 
 87
 00:05:09,720 --> 00:05:12,390
+
 Voilà, c'est tout pour aujourd'hui. Je suis Robbie, et je vous retrouve demain.
